@@ -24,7 +24,7 @@ It's easy!
 
 2. Create a Reservoir project with `composer`
 ```
-$ composer create-project acquia/reservior-project MY_PROJECT
+$ composer create-project acquia/reservoir-project MY_PROJECT --stability=alpha
 ```
 3. In your webhost configuration point my-project.com to [MY_PROJECT]/docroot
 4. Install Reservoir by going to *http://my-project.com*
